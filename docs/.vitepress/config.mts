@@ -81,7 +81,7 @@ export default defineConfig({
     ],
     
     footer: {
-      copyright: '© Jursin | All Rights Reserved'      
+      copyright: 'Copyright 2025 © Jursin | 本文档以 CC BY-NC-SA 4.0 许可协议授权'      
     },
     outline: {
       level: [2, 3],
