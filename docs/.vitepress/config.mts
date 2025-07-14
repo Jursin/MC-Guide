@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Minecraft 教程",
   description: "Minecraft 新手入门教程",
-  base: '/MC-Guide/',
+  base: '/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
