@@ -20,7 +20,7 @@ outline: deep
   - [HMCL 下载](https://hmcl.huangyuhui.net/download/)
   - [Minecraft 官方启动器](https://www.minecraft.net/zh-hans/download)
 
-::: tip 提示
+::: tip
 - 现在启动器基本都支持自动安装 Java 环境
 - 游戏资源路径
   - 官方启动器：`C:\Users\{用户名}\AppData\Roaming\.minecraft`
@@ -44,11 +44,19 @@ outline: deep
 
 `版本隔离`与`自动选择合适的 Java`。
 
+::: code-group
+
+```md:img [PCL2]
 ![1](images/1.png)
+```
 
+```md:img [HMCL]
 ![2](images/2.png)
+```
 
-::: info  信息
+:::
+
+::: info
 开启版本隔离后各游戏版本会分别存放在 `.minecraft\versions\{版本名称}` 文件夹下，各版本存档、模组、资源包、光影包等相互独立，便于管理。
 
 该目录下主要文件夹/文件说明：
@@ -66,11 +74,19 @@ options.txt #游戏设置
 
 安装游戏版本与模组加载器（如果需要）
 
+::: code-group
+
+```md:img [PCL2]
 ![3](images/3.png)
+```
 
+```md:img [HMCL]
 ![4](images/4.png)
+```
 
-::: tip 注意
+:::
+
+::: tip
 如需装光影，1.14 以前需装 OptiFine（高清修复），1.14以后 Fabric 端推荐安装 Sodium（钠）和 Iris Shaders，Forge 端推荐安装 Rubidium（铷）和 Lithium（锂）
 :::
 
@@ -78,9 +94,17 @@ options.txt #游戏设置
 
 - 通过启动器下载
 
-![5](images/5.png)
+::: code-group
 
+```md:img [PCL2]
+![5](images/5.png)
+```
+
+```md:img [HMCL]
 ![6](images/6.png)
+```
+
+:::
 
 - 通过网站下载<br>
   通过国内 [MC 百科](https://www.mcmod.cn) 等网站或国外 [CurseForge](https://www.curseforge.com/minecraft)、[Modrinth](https://modrinth.com/) 等网站下载对应版本游戏资源
@@ -94,9 +118,17 @@ options.txt #游戏设置
 ### 启动游戏
 使用正版或离线账户启动游戏
 
-![7](images/7.png)
+::: code-group
 
+```md:img [PCL2]
+![7](images/7.png)
+```
+
+```md:img [HMCL]
 ![8](images/8.png)
+```
+
+:::
 
 ## 进阶技巧
 
@@ -114,9 +146,17 @@ options.txt #游戏设置
 
 - 点击侧栏皮肤库，寻找喜欢的皮肤或披风
 
-![image.png](images/image15.png)
+::: code-group
 
+```md:img [皮肤]
+![image.png](images/image15.png)
+```
+
+```md:img [披风]
 ![image.png](images/image16.png)
+```
+
+:::
 
 - 进入详情页后，点击添加至衣柜
 
@@ -142,11 +182,10 @@ options.txt #游戏设置
 
 ### 修改游戏数据
 - 可以使用[中文版本的NBTExplorer](https://github.com/wifi-left/ChineseNBTExplorer)编辑 `level.dat` 文件来修改存档设置
-
-![image.png](images/image19.png)
+  ![image.png](images/image19.png)
 
 - 也可使用 HMCL 编辑存档设置
-![9](images/9.png)
+  ![9](images/9.png)
 
 ## 其他
 
