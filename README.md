@@ -1,5 +1,8 @@
  # Minecraft 教程
 
+[![Netlify deployments](https://img.shields.io/github/deployments/Jursin/MC-Guide/production?style=flat&logo=netlify&label=netlify)](https://mc-guide.jursin.top)
+[![GitHub License](https://img.shields.io/github/license/Jursin/MC-Guide?style=flat)](https://github.com/Jursin/MC-Guide/blob/main/LICENSE)
+
 这是一个使用 VitePress 搭建的 Minecraft 入门教程网站
 
 ## 快速开始
