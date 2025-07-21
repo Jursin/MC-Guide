@@ -149,13 +149,6 @@ export default defineConfig({
               .replace(/重要/g, '重要')
               .replace(/警告/g, '警告')
               .replace(/注意/g, '注意')
-          } else if (currentLang === 'ko') {
-            // 韩文替换
-            defaultContent = defaultContent.replace(/提醒/g, '알림')
-              .replace(/建议/g, '팁')
-              .replace(/重要/g, '중요')
-              .replace(/警告/g, '경고')
-              .replace(/注意/g, '주의')
           }
           // 返回渲染的内容
           return defaultContent
