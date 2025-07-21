@@ -13,12 +13,12 @@ Notch 随后创立了 **Mojang Studios** （原 **Mojang AB** ），团队逐步
 |:-:|:-:|
 | 支持 Windows/macOS/Linux 平台 | 支持 Android/iOS/Windows 10+/各主机平台 |
 | Java 语言编写 | 基于基岩代码库（Bedrock codebase，使用 C++ 语言编写） |
-| 支持第三方模组加载器（如Forge/Fabric/NeoForge/Quilt） | 仅支持官方商城附加内容（Add-Ons） |
+| 支持第三方模组加载器（如Forge/Fabric/NeoForge/Quilt） | 仅支持官方商城提供或社区开发的附加内容（Add-Ons） |
 
-::: tip
-官方移动端 Minecraft （包括网易代理的《我的世界》）为基岩版
+::: tip 提示
+官方便携版 Minecraft （包括网易代理的《我的世界》）为基岩版
 
-社区开发的 PojavLauncher, ZalithLauncher, FoldCraftLauncher 等启动器可在 Android 平台运行 Java 版 Minecraft
+社区开发的 [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher), [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher), [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) 等启动器可在 Android 平台运行 Java 版 Minecraft
 :::
 
 ### **中国版与国际版**
@@ -30,10 +30,10 @@ Notch 随后创立了 **Mojang Studios** （原 **Mojang AB** ），团队逐步
 
 ### **游戏主要玩法**
 - **游戏模式**
-    - **生存模式**：采集资源、建造庇护所、对抗怪物
-    - **创造模式**：无限资源自由建造，适合建筑设计
-    - **冒险模式**：在生存模式基础上禁止交互，适合玩解密地图
-    - **旁观模式**：在创造模式基础上可穿越所有方块且可透视
+    - **生存模式**：收集资源、建造建筑、和怪物战斗、进行饥饿管理和探索世界来生存和发展
+    - **创造模式**：许玩家自由地飞行、创造和破坏结构
+    - **冒险模式**：相较于生存模式，会限制一些游戏内容，只能使用指定工具破坏指定方块
+    - **旁观模式**：允许玩家以飞行的方式无障碍穿过方块和实体并观察世界
 - **多人游戏**：局域网联机或服务器联机
 - **其它玩法**    
     - **红石**：通过红石实现各种自动化机器
@@ -41,7 +41,7 @@ Notch 随后创立了 **Mojang Studios** （原 **Mojang AB** ），团队逐步
     - **模组与整合包**：丰富游戏内容与体验
 
 ### **国际版正版账号与离线登录**
-- 在 Minecraft 官网（不是网易代理版官网）或微软商店购买 JE&BE 捆绑包即可拥有正版账号，可下载使用官方启动器，可自定义皮肤与披风，参与官方活动
+- 在 ~~Minecraft 官网（不是网易代理版官网）~~、~~微软商店~~或 Xbox 官网购买 [Minecraft: Java & Bedrock Edition for PC](https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj) 即可拥有正版账号，可下载使用官方启动器，可自定义皮肤、佩戴披风，参与官方活动
 - 对于 Java 版非正版玩家，也可在各第三方启动器下载游戏资源后离线登录，与正版游戏内容完全一样，但无法进入开启正版验证的服务器
 - 对于基岩版非正版玩家，需要下载去除签名校验的游戏安装包
-- 也可使用如 LittleSkin 等第三方皮肤站在游戏中加载自定义皮肤与披风
+- 也可使用如 [LittleSkin](https://littleskin.cn/?lang=zh_CN) 等第三方皮肤站在游戏中加载自定义皮肤与披风

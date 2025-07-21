@@ -4,6 +4,7 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import '@fortawesome/fontawesome-free/css/all.min.css'
+import BilibiliVideo from './components/BilibiliVideo.vue';
 
 export default {
   extends: DefaultTheme,
@@ -13,6 +14,6 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    app.component('BilibiliVideo', BilibiliVideo);
   }
 } satisfies Theme

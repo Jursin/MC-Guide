@@ -18,9 +18,10 @@ export default defineConfig({
       { 
         text: '下载与使用',
         items: [
-          { text: 'JE教程', link: '/start/JE' },
-          { text: 'BE教程', link: '/start/BE' },
+          { text: '电脑版教程', link: '/start/JE' },
+          { text: '手机版教程', link: '/start/mobile' },
           { text: '联机教程', link: '/start/联机' },
+          { text: '服务器搭建', link: '/start/server' }
         ]
       },
       { text: '链接聚合', link: '/links' },
@@ -34,9 +35,10 @@ export default defineConfig({
       { 
         text: '下载与使用',
         items: [
-          { text: 'JE教程', link: '/start/JE' },
-          { text: 'BE教程', link: '/start/BE' },
+          { text: '电脑版教程', link: '/start/JE' },
+          { text: '手机版教程', link: '/start/mobile' },
           { text: '联机教程', link: '/start/联机' },
+          { text: '服务器搭建', link: '/start/server' }
         ]
       },
       { text: '链接聚合', link: '/links' },

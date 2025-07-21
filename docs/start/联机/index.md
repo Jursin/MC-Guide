@@ -2,13 +2,14 @@
 outline: deep
 ---
 
-# Java 版联机
+# 联机教程
+> 以 Windows 端为例，[手机端教程](/start/mobile#联机教程)见前文。
 ## 局域网联机
 
 确保和好友在同一局域网内，启动游戏后点击`多人游戏`，进入对应房间即可
 
 ## 内网穿透联机
-### 通过[NetPlus](https://netplus.xingl.net/)
+### 通过 [NetPlus](https://netplus.xingl.net/)
 - 下载[NetPlus](https://netplus.xingl.net/)，注册账号后进入主界面
 
 ![image.png](images/image.png)
@@ -37,5 +38,23 @@ outline: deep
 
 ![1](images/1.jpeg)
 :::
+
+## IPv6 联机
+- 通过 [IPv6地址查询](https://ipw.cn/ipv6/) 网站查询 IPv6 地址
+- 或通过终端查询 IPv6 地址：
+  - 打开 Windows PowerShell，输入以下内容并回车：
+    ```shell
+    ipconfig
+    ```
+  - 查看输出内容
+    ```shell
+    Wireless LAN adapter WLAN:
+       Temporary IPv6 Address:
+    ```
+    该字段后地址即为 IPv6 地址
+- 点击游戏内`多人游戏`，点击`添加服务器`并粘贴地址，格式为 `[IPv6 地址]:{端口号}`
 ## 服务器联机
-### 通过[简幻欢](https://simpfun.cn/)等搭建服务器联机
+- [搭建好服务器](/start/server)后，将服务器地址分享给好友
+- 好友将服务器地址复制后，点击游戏内`多人游戏`，点击`添加服务器`并粘贴地址，保存到列表后进入；或点击`直接连接`并粘贴地址即可进入房间
+
+<BilibiliVideo bvid="BV14SXnYyEit" />
