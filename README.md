@@ -1,7 +1,7 @@
  # Minecraft 教程
 
 [![Netlify deployments](https://img.shields.io/github/deployments/Jursin/MC-Guide/production?style=flat&logo=netlify&label=netlify)](https://mc-guide.jursin.top)
-[![GitHub License](https://img.shields.io/github/license/Jursin/MC-Guide?style=flat)](https://github.com/Jursin/MC-Guide/blob/main/LICENSE)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 这是一个使用 VitePress 搭建的 Minecraft 入门教程网站
 
