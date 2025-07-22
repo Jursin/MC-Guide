@@ -1,9 +1,6 @@
----
-outline: deep
----
-
 # 概览
- 
+<ArticleMetadata />
+
 瑞典游戏设计师 **Markus Alexej Persson** （马库斯·阿列克谢·泊松，人称 **Notch** ）于 **2009 年**开始开发出了 Minecraft 最初版本。
 
 Notch 随后创立了 **Mojang Studios** （原 **Mojang AB** ），团队逐步扩大并负责后续开发。**2014 年** Notch 将 Mojang 及公司资产出售给微软，现由微软 Xbox 游戏工作室管理。**2016 年**网易代理 Minecraft 中国版（即《我的世界》）并在 **2017 年**正式运营。**2023 年**Minecraft 全球销量突破3亿份，成为史上最畅销游戏之一。

@@ -1,14 +1,16 @@
 ---
 layout: home
 
+titleTemplate: 快速上手 MC 教程
+
 hero:
   name: Minecraft 教程
-  tagline: Minecraft Java 版入门教程，帮助新玩家快速上手。
+  text: 快速上手 MC 教程
   image:
     src: /logo.png
     alt: Logo
   actions:
-    - theme: alt
+    - theme: brand
       text: 概览
       link: /overview
     - theme: alt
@@ -17,6 +19,26 @@ hero:
     - theme: alt
       text: QQ 交流群
       link: https://qm.qq.com/q/GDUbBENduO
+
+features:
+  - icon: ⚡
+    title: 极速入门
+    details: 从游戏下载到开始使用，一步步带领新手完成基础操作。
+  - icon: 🖼️
+    title: 可视化教学
+    details: 关键步骤配有截图 + 标注说明，图文对照更直观。
+  - icon: 🌐
+    title: 双版本详解
+    details: 清晰对比 Java 版与基岩版的特性差异，针对不同平台提供专属教程。
+  - icon: 📱
+    title: 全终端适配
+    details: 适配电脑/手机/平板网页，阅读更轻松。
 ---
 
-本网站将介绍 Minecraft Java 版入门教程，涉及电脑版、手机版、服务器搭建、联机等教程，适用于有一定基础电脑操作能力的玩家。
+<HomeUnderline />
+
+> 本网站将介绍 Minecraft Java 版入门教程，涉及电脑版、手机版、服务器搭建、联机等教程，适用于有一定基础电脑操作能力的玩家。
+
+<div align="center">
+本站总访问量 <span id="busuanzi_value_site_pv" /> 次 | 本站访客数 <span id="busuanzi_value_site_uv" /> 人次
+</div>

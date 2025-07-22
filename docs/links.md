@@ -1,8 +1,6 @@
----
-outline: deep
----
-
 # 链接聚合
+<ArticleMetadata />
+
 ## 导航站
 <Linkcard url="https://mcjpg.org/nav/" title="Minecraft 导航" description="MCJPG 社区 MC 导航" logo="https://mcjpg.org/logo.png"/>
 

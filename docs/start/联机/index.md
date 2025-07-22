@@ -1,8 +1,6 @@
----
-outline: deep
----
-
 # 联机教程
+<ArticleMetadata />
+
 > 以 Windows 端为例，[手机端教程](/start/mobile#联机教程)见前文。
 ## 局域网联机
 
@@ -57,4 +55,4 @@ outline: deep
 - [搭建好服务器](/start/server)后，将服务器地址分享给好友
 - 好友将服务器地址复制后，点击游戏内`多人游戏`，点击`添加服务器`并粘贴地址，保存到列表后进入；或点击`直接连接`并粘贴地址即可进入房间
 
-<BilibiliVideo bvid="BV14SXnYyEit" />
+> [更多联机方式教程](https://www.bilibili.com/video/BV14SXnYyEit)

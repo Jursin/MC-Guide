@@ -3,15 +3,19 @@ import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
-import '@fortawesome/fontawesome-free/css/all.min.css'
-import BilibiliVideo from './components/BilibiliVideo.vue';
-import mediumZoom from 'medium-zoom';
-import { onMounted, watch, nextTick } from 'vue';
-import { useRoute } from 'vitepress';
-import 'virtual:group-icons.css'
 import './style/index.css'
+import 'virtual:group-icons.css'
+import '@fortawesome/fontawesome-free/css/all.min.css'
+import mediumZoom from 'medium-zoom'
+import { onMounted, watch, nextTick } from 'vue'
+import { useRoute } from 'vitepress'
+import BilibiliVideo from './components/BilibiliVideo.vue'
 import backtotop from "./components/backtotop.vue";
 import Linkcard from "./components/Linkcard.vue"
+import ArticleMetadata from "./components/ArticleMetadata.vue"
+import { inBrowser } from 'vitepress'
+import busuanzi from 'busuanzi.pure.js'
+import HomeUnderline from "./components/HomeUnderline.vue"
 
 export default {
   extends: DefaultTheme,
@@ -23,7 +27,14 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     app.component('BilibiliVideo', BilibiliVideo);
-    app.component('Linkcard' , Linkcard)
+    app.component('Linkcard' , Linkcard);
+    app.component('ArticleMetadata' , ArticleMetadata);
+    app.component('HomeUnderline' , HomeUnderline)
+    if (inBrowser) {
+      router.onAfterRouteChanged = () => {
+        busuanzi.fetch()
+      }
+    }
   },
   setup() {
     const route = useRoute();

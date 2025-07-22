@@ -1,8 +1,5 @@
----
-outline: deep
----
-
 # 基岩版教程
+<ArticleMetadata />
 
 > [资源分享](https://www.123912.com/s/0l7bVv-v5yHh)
 
