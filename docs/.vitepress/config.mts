@@ -88,7 +88,7 @@ export default defineConfig({
       copyright: 'Copyright 2025 © Jursin | 本文档以 CC BY-NC-SA 4.0 许可协议授权'      
     },
     outline: {
-      level: [2, 3],
+      level: 'deep',
       label: '页面导航'
     },
     editLink: {
