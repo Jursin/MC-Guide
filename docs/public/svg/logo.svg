@@ -1,69 +1,7 @@
-<?xml version="1.0"?>
-<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0">
- <g class="layer">
-  <title>Layer 1</title>
-  <g id="svg_17">
-   <svg class="el-tooltip" height="0" id="svg_15" preserveAspectRatio="xMidYMid meet" version="1" viewBox="0 0 340.000000 250.000000" width="0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs>
-     <pattern height="100%" id="svg_16" patternUnits="userSpaceOnUse" width="100%">
-      <image height="100%" id="svg_32" width="100%" x="0" xlink:href="https://www.logosc.cn/img/watermark/LOGOSC-watermark.png" y="0"/>
-     </pattern>
-    </defs>
-   </svg>
-  </g>
-  <rect fill="transparent" height="100%" id="svg_33" width="100%" x="0" y="0"/>
-  <g id="svg_23">
-   <svg height="100%" id="svg_34" preserveAspectRatio="xMidYMid meet" version="1" viewBox="0 0 100 100" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <rect class="background" display="none" fill="#ffffff" height="100%" id="svg_35" width="100%" x="0" y="0"/>
-    <rect class="watermarklayer" display="none" fill="url(#watermark)" height="100%" id="svg_36" width="100%" x="0" y="0"/>
-    <g class="iconsvg-imagesvg" fill="#42B888" id="svg_37">
-     <rect class="image-rect" fill="#42B888" fill-opacity="0" height="100" id="svg_38" stroke-width="2" width="100" x="0" y="0"/>
-     <g id="svg_26">
-      <svg class="image-svg-svg bn" height="100" id="svg_39" viewBox="0 0 60 60" width="100" x="0" y="0">
-       <g id="svg_40" mask="url(#svg_24)">
-        <g id="svg_28">
-         <svg enable-background="new 0 0 100 100" filter="url(#svg_27)" height="60" id="svg_41" version="1.1" viewBox="5 5 90 90" width="60" x="0" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0">
-          <g id="svg_42" transform="scale(1, 1) skewX(0)">
-           <path d="m75.92,5l-51.62,0c-10.55,0 -19.3,8.75 -19.3,19.3l0,51.62c0,10.55 8.75,19.08 19.3,19.08l51.62,0c10.55,0 19.08,-8.53 19.08,-19.08l0,-51.62c0,-10.55 -8.53,-19.3 -19.08,-19.3z" id="svg_43"/>
-          </g>
-          <defs>
-           <filter id="svg_27">
-            <feColorMatrix type="matrix" values="0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 1 0"/>
-           </filter>
-          </defs>
-         </svg>
-        </g>
-        <g filter="url(#svg_20)" id="svg_29">
-         <svg class="image-svg-letter" height="45" id="svg_44" viewBox="0 0 124.35713678614562 82.84235294117647" width="45" x="7.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="7.5">
-          <path d="m30.58,-5.08l11.18,0l16.43,-44.39l-6.94,49.47l11.18,0l11.6,-82.84l-11.18,0l-24.39,58.78l-10.17,-58.78l-11.18,0l-11.6,82.84l11.18,0l6.94,-49.64l6.95,44.56zm74.29,5.08l-12.96,0c-8.22,0 -13.9,-6.61 -12.71,-14.82l7.45,-53.28c1.11,-8.14 8.64,-14.74 16.86,-14.74l11.77,0c9.24,0 15.76,7.54 14.4,16.85l-0.76,5.51l-11.09,0l0.93,-6.69c0.59,-3.98 -2.12,-7.03 -6.02,-7.03l-8.64,0c-3.05,0 -5.84,2.45 -6.26,5.5l-7.63,54.47c-0.42,3.05 1.61,5.59 4.66,5.59l8.64,0c3.9,0 7.54,-3.13 8.05,-7.03l1.52,-10.67l11.1,0l-1.53,10.67c-1.18,8.64 -9.14,15.67 -17.78,15.67z" id="svg_45" transform="translate(-5.5058823529411764 82.84235294117647)"/>
-         </svg>
-        </g>
-       </g>
-       <mask id="svg_24">
-        <g fill="white" id="svg_30">
-         <svg enable-background="new 0 0 100 100" height="60" id="svg_46" version="1.1" viewBox="5 5 90 90" width="60" x="0" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0">
-          <g id="svg_47" transform="scale(1, 1) skewX(0)">
-           <path d="m75.92,5l-51.62,0c-10.55,0 -19.3,8.75 -19.3,19.3l0,51.62c0,10.55 8.75,19.08 19.3,19.08l51.62,0c10.55,0 19.08,-8.53 19.08,-19.08l0,-51.62c0,-10.55 -8.53,-19.3 -19.08,-19.3z" id="svg_48"/>
-          </g>
-
-         </svg>
-        </g>
-        <g fill="black" id="svg_31">
-         <svg class="image-svg-letter" height="45" id="svg_49" viewBox="0 0 124.35713678614562 82.84235294117647" width="45" x="7.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="7.5">
-          <path d="m30.58,-5.08l11.18,0l16.43,-44.39l-6.94,49.47l11.18,0l11.6,-82.84l-11.18,0l-24.39,58.78l-10.17,-58.78l-11.18,0l-11.6,82.84l11.18,0l6.94,-49.64l6.95,44.56zm74.29,5.08l-12.96,0c-8.22,0 -13.9,-6.61 -12.71,-14.82l7.45,-53.28c1.11,-8.14 8.64,-14.74 16.86,-14.74l11.77,0c9.24,0 15.76,7.54 14.4,16.85l-0.76,5.51l-11.09,0l0.93,-6.69c0.59,-3.98 -2.12,-7.03 -6.02,-7.03l-8.64,0c-3.05,0 -5.84,2.45 -6.26,5.5l-7.63,54.47c-0.42,3.05 1.61,5.59 4.66,5.59l8.64,0c3.9,0 7.54,-3.13 8.05,-7.03l1.52,-10.67l11.1,0l-1.53,10.67c-1.18,8.64 -9.14,15.67 -17.78,15.67z" id="svg_50" transform="translate(-5.5058823529411764 82.84235294117647)"/>
-         </svg>
-        </g>
-       </mask>
-      </svg>
-     </g>
-     <defs>
-      <filter id="svg_20">
-       <feColorMatrix class="icon-fecolormatrix" type="matrix" values="0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 1 0"/>
-      </filter>
-     </defs>
-    </g>
-
-   </svg>
-  </g>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="200px" viewBox="0 0 200 200" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(25.882354%,72.156864%,53.333336%);fill-opacity:1;" d="M 157.765625 0.777344 L 43.5 0.777344 C 20.148438 0.777344 0.777344 20.148438 0.777344 43.5 L 0.777344 157.765625 C 0.777344 181.121094 20.148438 200 43.5 200 L 157.765625 200 C 181.121094 200 200 181.117188 200 157.765625 L 200 43.5 C 200 20.148438 181.117188 0.777344 157.765625 0.777344 Z M 157.765625 0.777344 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 55.808594 144.054688 L 69.242188 144.054688 L 88.980469 90.71875 L 80.640625 150.160156 L 94.074219 150.160156 L 108.011719 50.625 L 94.578125 50.625 L 65.277344 121.253906 L 53.058594 50.625 L 39.625 50.625 L 25.6875 150.160156 L 39.121094 150.160156 L 47.460938 90.515625 L 55.808594 144.058594 Z M 145.070312 150.160156 L 129.5 150.160156 C 119.621094 150.160156 112.796875 142.21875 114.226562 132.355469 L 123.175781 68.339844 C 124.507812 58.554688 133.554688 50.625 143.433594 50.625 L 157.570312 50.625 C 168.671875 50.625 176.503906 59.683594 174.875 70.871094 L 173.960938 77.492188 L 160.636719 77.492188 L 161.753906 69.453125 C 162.464844 64.667969 159.207031 61.003906 154.519531 61.003906 L 144.140625 61.003906 C 140.476562 61.003906 137.125 63.949219 136.617188 67.609375 L 127.453125 133.058594 C 126.945312 136.722656 129.386719 139.773438 133.050781 139.773438 L 143.433594 139.773438 C 148.117188 139.773438 152.492188 136.011719 153.105469 131.328125 L 154.929688 118.503906 L 168.269531 118.503906 L 166.433594 131.328125 C 165.015625 141.707031 155.453125 150.15625 145.070312 150.15625 Z M 145.070312 150.160156 "/>
+</g>
 </svg>
