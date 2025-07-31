@@ -1,7 +1,7 @@
 # 联机教程
 <ArticleMetadata />
 
-> 以 Windows 端为例，[手机端教程](/start/mobile#联机教程)见前文。
+> 以 Windows 端为例，[手机端教程](/start/JE/mobile#联机教程)见前文。
 ## 局域网联机
 
 确保和好友在同一局域网内，启动游戏后点击`多人游戏`，进入对应房间即可
