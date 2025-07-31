@@ -1,11 +1,11 @@
 ---
 layout: home
 
-titleTemplate: 快速上手 MC 教程
+titleTemplate: 快速上手 MC
 
 hero:
   name: Minecraft 教程
-  text: 快速上手 MC 教程
+  text: 快速上手 MC
   image:
     src: /logo.png
     alt: Logo
@@ -37,7 +37,7 @@ features:
 
 <HomeUnderline />
 
-> 本网站将介绍 Minecraft Java 版入门教程，涉及电脑版、手机版、服务器搭建、联机等教程，适用于有一定基础电脑操作能力的玩家。
+> 本网站将介绍 Minecraft 入门教程，涉及游戏下载、联机、服务器搭建等教程，适用于有一定基础电脑操作能力的玩家。
 
 <div align="center">
 本站总访问量 <span id="busuanzi_value_site_pv" /> 次 | 本站访客数 <span id="busuanzi_value_site_uv" /> 人次

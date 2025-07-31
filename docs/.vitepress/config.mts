@@ -17,14 +17,21 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '概览', link: '/overview' },
       { 
-        text: '下载与使用',
+        text: 'Java 版',
         items: [
-          { text: '电脑版教程', link: '/start/JE' },
-          { text: '手机版教程', link: '/start/mobile' },
+          { text: '桌面端', link: '/start/JE/desktop' },
+          { text: '移动端', link: '/start/JE/mobile' },
           { text: '联机教程', link: '/start/联机' },
-          { text: '服务器搭建', link: '/start/server' }
         ]
       },
+     { 
+        text: '基岩版',
+        items: [
+          { text: '桌面端＆移动端', link: '/start/BE' },
+          { text: '联机教程', link: '/start/BE/联机' },
+        ]
+      },
+      { text: '服务器搭建', link: '/start/server' },
       { text: '链接聚合', link: '/links' },
       { text: '关于', link: '/about' }
     ],
@@ -33,18 +40,23 @@ export default defineConfig({
     sidebar: [
       { text: '概览', link: '/overview' },
       { 
-        text: '下载与使用',
-        collapsed: false,
+        text: 'Java 版',
         items: [
-          { text: '电脑版教程', link: '/start/JE' },
-          { text: '手机版教程', link: '/start/mobile' },
-          { text: '联机教程', link: '/start/联机' },
-          { text: '服务器搭建', link: '/start/server' }
+          { text: '桌面端', link: '/start/JE/desktop' },
+          { text: '移动端', link: '/start/JE/mobile' },
+          { text: '联机教程', link: '/start/JE/联机' },
         ]
       },
+     { 
+        text: '基岩版',
+        items: [
+          { text: '桌面端＆移动端', link: '/start/BE' },
+          { text: '联机教程', link: '/start/BE/联机' },
+        ]
+      },
+      { text: '服务器搭建', link: '/start/server' },
       { text: '链接聚合', link: '/links' },
-      { text: '关于', link: '/about' },
-      { text: '个人博客', link: 'https://blog.jursin.top' }
+      { text: '关于', link: '/about' }
     ],
 
     search: {

@@ -1,8 +1,7 @@
-# 电脑版教程
+# 桌面端教程
 <ArticleMetadata />
 
 > [**资源分享**](https://www.123pan.com/s/0l7bVv-d5yHh.html)<br>
-> 也有简单的[基岩版教程](/start/BE/)
 
 ::: tip 注意
 首先你需要一定基础电脑操作能力，本教程以 Windows 平台为例。
