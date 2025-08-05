@@ -1,8 +1,6 @@
 ---
 layout: home
-
 titleTemplate: 快速上手 MC
-
 hero:
   name: Minecraft 教程
   text: 快速上手 MC

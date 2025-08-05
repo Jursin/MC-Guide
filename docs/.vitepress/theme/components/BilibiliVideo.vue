@@ -2,9 +2,8 @@
   <div class="bilibili-video-card">
     <div class="video-wrapper">
         <iframe
-        :src="`https://player.bilibili.com/player.html?isOutside=true&bvid=${bvid}&p=1&high_quality=1&danmaku=0&autoplay=0loop=0`"
+        :src="`https://player.bilibili.com/player.html?isOutside=true&bvid=${bvid}&p=1&high_quality=1&danmaku=0&autoplay=0&loop=0`"
         frameborder="no"
-        scrolling="no"
         allowfullscreen
         ></iframe>
     </div>
@@ -25,7 +24,6 @@ export default {
 
 <style>
 .bilibili-video-card {
-  max-width: 900px;
   margin: 2rem auto;
   border: 2px solid #eee;
   border-radius: 12px;

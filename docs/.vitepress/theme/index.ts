@@ -10,7 +10,7 @@ import mediumZoom from 'medium-zoom'
 import { onMounted, watch, nextTick } from 'vue'
 import { useRoute } from 'vitepress'
 import BilibiliVideo from './components/BilibiliVideo.vue'
-import backtotop from "./components/backtotop.vue";
+import backtotop from "./components/backtotop.vue"
 import Linkcard from "./components/Linkcard.vue"
 import ArticleMetadata from "./components/ArticleMetadata.vue"
 import { inBrowser } from 'vitepress'
