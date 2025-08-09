@@ -12,9 +12,9 @@
 ### 启动器与 Java 的安装
 
 - 启动器（任选一个）
-  - [PCL2 下载](https://afdian.com/p/0164034c016c11ebafcb52540025c377)
-  - [HMCL 下载](https://hmcl.huangyuhui.net/download/)
-  - [Minecraft 官方启动器](https://www.minecraft.net/zh-hans/download)
+  - <img src="/PCL2.ico" width="16" /> [PCL2 下载](https://afdian.com/p/0164034c016c11ebafcb52540025c377)
+  - <img src="/HMCL.png" width="16" /> [HMCL 下载](https://hmcl.huangyuhui.net/download/)
+  - <img src="https://zh.minecraft.wiki/images/thumb/Minecraft_Twitter_logo.jpg/240px-Minecraft_Twitter_logo.jpg?49902" width="16" /> [Minecraft 官方启动器](https://www.minecraft.net/zh-hans/download)
 
 ::: tip
 - 现在启动器基本都支持自动安装 Java 环境
@@ -24,7 +24,9 @@
 :::
 
 - Java
-  - [Java 24/21](https://www.oracle.com/cn/java/technologies/downloads/)
+  - [Java 24](https://www.oracle.com/cn/java/technologies/downloads/#jdk24-windows)
+  - [Java 21](https://www.oracle.com/cn/java/technologies/downloads/#jdk21-windows)
+  - [Java 17](https://www.oracle.com/cn/java/technologies/downloads/#java17-windows)
   - [Java 8](https://www.java.com/zh-CN/download/)
 
 | Minecraft 版本 | Java 最低版本/推荐版本 |
