@@ -16,18 +16,33 @@
   - <img src="/HMCL.png" width="16" /> [HMCL 下载](https://hmcl.huangyuhui.net/download/)
   - <img src="https://zh.minecraft.wiki/images/thumb/Minecraft_Twitter_logo.jpg/240px-Minecraft_Twitter_logo.jpg?49902" width="16" /> [Minecraft 官方启动器](https://www.minecraft.net/zh-hans/download)
 
-::: tip
+:::: tip
 - 现在启动器基本都支持自动安装 Java 环境
+  - PLCL2 在启动游戏时自动安装合适 Java 版本
+  - HMCL 可以在设置-Java管理中点击`下载Java`来下载合适的 Java 版本
+    ![0](images/0.png)
 - 游戏资源路径
   - 官方启动器：`C:\Users\{用户名}\AppData\Roaming\.minecraft`
   - 第三方启动器：同目录下 `.minecraft`
-:::
+  - 游戏文件夹管理
+    ::: code-group
+
+    ```md:img [<img src="/PCL2.ico" width="16" /> PCL2]
+    ![01](images/01.png)
+    ```
+
+    ```md:img [<img src="/HMCL.png" width="16" /> HMCL]
+    ![02](images/02.png)
+    ```
+
+    :::
+::::
 
 - Java
-  - [Java 24](https://www.oracle.com/cn/java/technologies/downloads/#jdk24-windows)
-  - [Java 21](https://www.oracle.com/cn/java/technologies/downloads/#jdk21-windows)
-  - [Java 17](https://www.oracle.com/cn/java/technologies/downloads/#java17-windows)
-  - [Java 8](https://www.java.com/zh-CN/download/)
+  - [下载 Java 24](https://www.oracle.com/cn/java/technologies/downloads/#jdk24-windows)
+  - [下载 Java 21](https://www.oracle.com/cn/java/technologies/downloads/#jdk21-windows)
+  - [下载 Java 17](https://www.oracle.com/cn/java/technologies/downloads/#java17-windows)
+  - [下载 Java 8](https://www.java.com/zh-CN/download/)
 
 | Minecraft 版本 | Java 最低版本/推荐版本 |
 |:-:|:-:|
@@ -44,11 +59,11 @@
 
 ::: code-group
 
-```md:img [PCL2]
+```md:img [<img src="/PCL2.ico" width="16" /> PCL2]
 ![1](images/1.png)
 ```
 
-```md:img [HMCL]
+```md:img [<img src="/HMCL.png" width="16" /> HMCL]
 ![2](images/2.png)
 ```
 
@@ -74,18 +89,19 @@ options.txt #游戏设置
 
 ::: code-group
 
-```md:img [PCL2]
+```md:img [<img src="/PCL2.ico" width="16" /> PCL2]
 ![3](images/3.png)
 ```
 
-```md:img [HMCL]
+```md:img [<img src="/HMCL.png" width="16" /> HMCL]
 ![4](images/4.png)
 ```
 
 :::
 
 ::: tip
-如需装光影，1.14 以前需装 OptiFine（高清修复），1.14以后 Fabric 端推荐安装 Sodium（钠）和 Iris Shaders，Forge 端推荐安装 Rubidium（铷）和 Lithium（锂）
+- 如需装光影，1.14 以前需装 <img src="https://optifine.net/images/of16r.png" width="16" /> [OptiFine（高清修复）](https://optifine.net/home)，1.14以后 <img src="https://fabricmc.net/assets/logo.png" width="16" /> [Fabric](https://fabricmc.net/) 端推荐安装 <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" width="16" /> [Sodium（钠）](https://modrinth.com/mod/sodium) 和 <img src="https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp" width="16" /> [Iris Shaders](https://modrinth.com/mod/iris)，<img src="/svg/CurseForge.svg" width="16" /> [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) 端推荐安装 <img src="https://media.forgecdn.net/avatars/thumbnails/488/2/64/64/637791713768306590.jpeg" width="16" /> [Rubidium（铷）](https://www.curseforge.com/minecraft/mc-mods/rubidium) 和 <img src="https://media.forgecdn.net/avatars/thumbnails/260/218/64/64/637213826674310080.png" width="16" /> [Lithium（锂）](https://www.curseforge.com/minecraft/mc-mods/lithium-forge)
+- 游戏优化建议选 <img src="https://fabricmc.net/assets/logo.png" width="16" /> [Fabric](https://fabricmc.net/), 拓展玩法建议选 <img src="/svg/CurseForge.svg" width="16" /> [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
 :::
 
 ### 游戏资源下载（模组/整合包/材质包/光影包）
@@ -94,23 +110,23 @@ options.txt #游戏设置
 
 ::: code-group
 
-```md:img [PCL2]
+```md:img [<img src="/PCL2.ico" width="16" /> PCL2]
 ![5](images/5.png)
 ```
 
-```md:img [HMCL]
+```md:img [<img src="/HMCL.png" width="16" /> HMCL]
 ![6](images/6.png)
 ```
 
 :::
 
 - 通过网站下载<br>
-  通过国内 [MC 百科](https://www.mcmod.cn) 等网站或国外 [CurseForge](https://www.curseforge.com/minecraft)、[Modrinth](https://modrinth.com/) 等网站下载对应版本游戏资源
+  通过国内 <img src="https://www.mcmod.cn/images/favicon.ico" width="16" /> [MC 百科](https://www.mcmod.cn) 等网站或国外 <img src="/svg/CurseForge.svg" width="16" /> [CurseForge](https://www.curseforge.com/minecraft)、<img src="https://toolb.cn/favicon/modrinth.com" width="16" /> [Modrinth](https://modrinth.com/) 等网站下载对应版本游戏资源
 
-::: tip 注意
-下载模组时注意要求的游戏版本与模组加载器，如果有**前置模组**则也要下载
-
-注意将下载的文件放在**对应版本文件夹**的相应文件夹下
+::: warning 注意
+- 下载模组时注意要求的游戏版本与模组加载器，如果有**前置模组**则也要下载
+- 注意将下载的资源文件放在**对应版本文件夹**的相应文件夹下
+- <img src="https://www.mcmod.cn/images/favicon.ico" width="16" /> [MC 百科](https://www.mcmod.cn)只是提供相应资源的 <img src="/svg/CurseForge.svg" width="16" /> [CurseForge](https://www.curseforge.com/minecraft) 、<img src="https://toolb.cn/favicon/modrinth.com" width="16" /> [Modrinth](https://modrinth.com/) 和 <i class="fa-brands fa-github"></i> [GitHub](https://github.com/) 下载链接
 :::
 
 ### 启动游戏
@@ -118,11 +134,11 @@ options.txt #游戏设置
 
 ::: code-group
 
-```md:img [PCL2]
+```md:img [<img src="/PCL2.ico" width="16" /> PCL2]
 ![7](images/7.png)
 ```
 
-```md:img [HMCL]
+```md:img [<img src="/HMCL.png" width="16" /> HMCL]
 ![8](images/8.png)
 ```
 
@@ -165,7 +181,10 @@ options.txt #游戏设置
 ![image.png](images/image18.png)
 
 - 回到仪表盘，如果使用HMCL启动器，则把将此按钮拖动到启动器拖动到启动器，完成登录
-- 如果使用 PCL2 启动器，则点击启动页面的版本设置-设置-服务器-登录方式，选择第三方行登录：`Authlib Injector 或 LittleSkin`，点击下方设置为LittleSkin，返回后输入邮箱、密码，点击登录
+- 如果使用 PCL2 启动器，则点击启动页面的版本设置-设置-服务器-登录方式，选择第三方行登录：`Authlib Injector 或 LittleSkin`，点击下方设置为LittleSkin，返回后输入邮箱、密码，点击启动游戏
+  ![9](images/9.png)
+
+  ![10](images/10.png)
 
 ### 存档导入/导出
 
@@ -183,7 +202,7 @@ options.txt #游戏设置
   ![image.png](images/image19.png)
 
 - 也可使用 HMCL 编辑存档设置
-  ![9](images/9.png)
+  ![11](images/11.png)
 
 ## 其他
 

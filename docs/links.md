@@ -9,7 +9,7 @@
 <Linkcard url="https://mcisee.top/" title="所见皆是Minecraft" description="玩家可以从这里挖掘Minecraft常用资源" logo="https://mcisee.top/assets/icon/favicon.ico"/>
 
 ## 资源站
-<Linkcard url="https://modrinth.com/" title="Modrinth" description="The place for Minecraft" logo="https://toolb.cn/favicon/modrinth.com"/>
-
 <Linkcard url="https://www.curseforge.com/minecraft" title="
 CurseForge" description="A world of endless gaming possibilities for modders and gamers alike." logo="/svg/CurseForge.svg"/>
+
+<Linkcard url="https://modrinth.com/" title="Modrinth" description="The place for Minecraft" logo="https://toolb.cn/favicon/modrinth.com"/>

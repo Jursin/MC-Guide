@@ -32,7 +32,7 @@
 - 好友将连接地址复制后，点击游戏内`多人游戏`，点击`直接连接`并粘贴地址即可进入房间；或点击添加服务器并粘贴地址，保存到列表后进入
 
 ::: tip
-可以通过模组`[更高级联机设置] LAN World Plug-n-Play` 实现更多联机设置
+可以通过模组 [[更高级联机设置] LAN World Plug-n-Play](https://modrinth.com/mod/mcwifipnp) 实现更多联机设置
 
 ![1](images/1.jpeg)
 :::
