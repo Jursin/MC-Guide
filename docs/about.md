@@ -15,7 +15,7 @@ const members = [
 </script>
 
 
-# 关于
+# <i class="fa-solid fa-circle-info"></i> 关于
 <ArticleMetadata />
 
 <VPTeamMembers size="small" :members="members" />

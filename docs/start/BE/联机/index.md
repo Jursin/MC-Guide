@@ -1,4 +1,4 @@
-# 联机教程
+# <i class="fa-solid fa-globe"></i> 联机教程
 <ArticleMetadata />
 
 ## 桌面端

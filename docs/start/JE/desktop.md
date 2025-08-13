@@ -1,4 +1,4 @@
-# 桌面端教程
+# <i class="fa-solid fa-desktop"></i> 桌面端教程
 <ArticleMetadata />
 
 > [**资源分享**](https://www.123pan.com/s/0l7bVv-d5yHh.html)<br>
@@ -12,9 +12,9 @@
 ### 启动器与 Java 的安装
 
 - 启动器（任选一个）
-  - <img src="/PCL2.ico" width="16" /> [PCL2 下载](https://afdian.com/p/0164034c016c11ebafcb52540025c377)
-  - <img src="/HMCL.png" width="16" /> [HMCL 下载](https://hmcl.huangyuhui.net/download/)
-  - <img src="https://zh.minecraft.wiki/images/thumb/Minecraft_Twitter_logo.jpg/240px-Minecraft_Twitter_logo.jpg?49902" width="16" /> [Minecraft 官方启动器](https://www.minecraft.net/zh-hans/download)
+  - <img src="/PCL2.ico" width="16" /> PCL2 <a href="https://afdian.com/p/0164034c016c11ebafcb52540025c377"><i class="fa-solid fa-download"></i></a>
+  - <img src="/HMCL.png" width="16" /> HMCL <a href="https://hmcl.huangyuhui.net/download/"><i class="fa-solid fa-download"></i></a>
+  - <img src="https://zh.minecraft.wiki/images/thumb/Minecraft_Twitter_logo.jpg/240px-Minecraft_Twitter_logo.jpg?49902" width="16" /> Minecraft 官方启动器 <a href="https://www.minecraft.net/zh-hans/download"><i class="fa-solid fa-download"></i></a>
 
 :::: tip
 - 现在启动器基本都支持自动安装 Java 环境
@@ -39,10 +39,10 @@
 ::::
 
 - Java
-  - [下载 Java 24](https://www.oracle.com/cn/java/technologies/downloads/#jdk24-windows)
-  - [下载 Java 21](https://www.oracle.com/cn/java/technologies/downloads/#jdk21-windows)
-  - [下载 Java 17](https://www.oracle.com/cn/java/technologies/downloads/#java17-windows)
-  - [下载 Java 8](https://www.java.com/zh-CN/download/)
+  - Java 24 <a href="https://www.oracle.com/cn/java/technologies/downloads/#jdk24-windows"><i class="fa-solid fa-download"></i></a>
+  - Java 21 <a href="https://www.oracle.com/cn/java/technologies/downloads/#jdk21-windows"><i class="fa-solid fa-download"></i></a>
+  - Java 17 <a href="https://www.oracle.com/cn/java/technologies/downloads/#java17-windows"><i class="fa-solid fa-download"></i></a>
+  - Java 8 <a href="https://www.java.com/zh-CN/download/"><i class="fa-solid fa-download"></i></a>
 
 | Minecraft 版本 | Java 最低版本/推荐版本 |
 |:-:|:-:|
@@ -148,7 +148,7 @@ options.txt #游戏设置
 
 ### 自定义皮肤/披风
 
-- 进入 [LittleSkin](https://littleskin.cn/) 网站，注册账号并登录
+- 进入 <img src="https://littleskin.cn/favicon.png" width="16" /> [LittleSkin](https://littleskin.cn/) 网站，注册账号并登录
 
 ![image.png](images/image11.png)
 

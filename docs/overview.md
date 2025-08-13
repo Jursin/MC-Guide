@@ -1,4 +1,4 @@
-# 概览
+# <i class="fa-solid fa-book-open"></i> 概览
 <ArticleMetadata />
 <div align="center">
     <img src="https://zh.minecraft.wiki/images/Minecraft_franchise_logo.svg?d4f53" width="500" />

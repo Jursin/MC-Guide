@@ -1,4 +1,4 @@
-# 链接聚合
+# <i class="fa-solid fa-link"></i> 链接聚合
 <ArticleMetadata />
 
 ## 导航站

@@ -27,10 +27,10 @@
 
 ## 视频教程
 
-## 桌面端
+## <i class="fa-solid fa-desktop"></i> 桌面端
 - Windows 平台
   <BilibiliVideo bvid="BV1pEFueQEH9" />
 
-## 移动端
+## <i class="fa-solid fa-mobile"></i> 移动端
 - Android 平台
   <BilibiliVideo bvid="BV1Wx38zTEYx" />

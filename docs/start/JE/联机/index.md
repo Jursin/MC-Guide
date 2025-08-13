@@ -1,4 +1,4 @@
-# 联机教程
+# <i class="fa-solid fa-globe"></i> 联机教程
 <ArticleMetadata />
 
 > 以 Windows 端为例，[手机端教程](/start/JE/mobile#联机教程)见前文。
@@ -6,9 +6,11 @@
 
 确保和好友在同一局域网内，启动游戏后点击`多人游戏`，进入对应房间即可
 
+![multiplayer](images/multiplayer.png)
+
 ## 内网穿透联机
-### 通过 [NetPlus](https://netplus.xingl.net/)
-- 下载[NetPlus](https://netplus.xingl.net/)，注册账号后进入主界面
+### 通过 NetPlus <a href="https://netplus.xingl.net/"><i class="fa-solid fa-download"></i></a>
+- 注册账号后进入主界面
 
 ![image.png](images/image.png)
 
@@ -50,6 +52,7 @@
        Temporary IPv6 Address:
     ```
     该字段后地址即为 IPv6 地址
+    ![terminal](images/terminal.png)
 - 点击游戏内`多人游戏`，点击`添加服务器`并粘贴地址，格式为 `[IPv6 地址]:{端口号}`
 ## 服务器联机
 - [搭建好服务器](/start/server)后，将服务器地址分享给好友
