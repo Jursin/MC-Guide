@@ -1,7 +1,7 @@
 # <i class="fa-solid fa-globe"></i> 联机教程
 <ArticleMetadata />
 
-> 以 Windows 端为例，[手机端教程](/start/JE/mobile#联机教程)见前文。
+> 以 Windows 端为例，[手机端教程](/start/JE/mobile/#联机教程)见前文。
 ## 局域网联机
 
 确保和好友在同一局域网内，启动游戏后点击`多人游戏`，进入对应房间即可
@@ -55,7 +55,7 @@
     ![terminal](images/terminal.png)
 - 点击游戏内`多人游戏`，点击`添加服务器`并粘贴地址，格式为 `[IPv6 地址]:{端口号}`
 ## 服务器联机
-- [搭建好服务器](/start/server)后，将服务器地址分享给好友
+- [搭建好服务器](/start/server/)后，将服务器地址分享给好友
 - 好友将服务器地址复制后，点击游戏内`多人游戏`，点击`添加服务器`并粘贴地址，保存到列表后进入；或点击`直接连接`并粘贴地址即可进入房间
 
 > [更多联机方式教程](https://www.bilibili.com/video/BV14SXnYyEit)
