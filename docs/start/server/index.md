@@ -2,7 +2,7 @@
 <ArticleMetadata />
 
 ## 云服务器
-### [简幻欢](https://simpfun.cn/)
+### <img src="https://simpfun.cn/logo.png" width="24" /> [简幻欢](https://simpfun.cn/)
 - 注册账号并进入控制台
   ![console](images/console.png)
 
@@ -63,7 +63,7 @@
 [官方教程文档 | 如何创建服务器](https://www.yuque.com/simpfox/simpdoc/create)
 :::
 
-### [雨云](https://app.rainyun.com/)
+### <img src="https://app.rainyun.com/favicon.ico" width="24" /> [雨云](https://app.rainyun.com/)
 <BilibiliVideo bvid="BV1FJZSY4E9K" />
 
 ## 手动搭建

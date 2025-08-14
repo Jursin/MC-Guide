@@ -4,12 +4,12 @@
 > [资源分享](https://www.123912.com/s/0l7bVv-v5yHh)
 
 ## 游戏下载与安装
-- [MCAPPX 版本库](https://www.mcappx.com/)（Windows 版，含**正版验证**机制）
+- <img src="https://www.mcappx.com/images/logo/favicon.ico" width="16" /> [MCAPPX 版本库](https://www.mcappx.com/)（Windows 版，含**正版验证**机制）
   - [Unlock Minecraft 工具](https://wwus.lanzouu.com/imFD62mg1nte)
-- [Minecraft for Android 版本库](https://bbk.endyun.ltd/download)（Android 版，**推荐**）
-- [我的世界国际版全版本下载](https://mcapks.com)（Android 版）
-- [我的世界国际版下载](https://mc.minebbs.com/?platform=3&environment=1)（Windows, Android, iOS 均有）
-- [Xbox 官网下载](https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj)
+- <img src="https://bbk.endyun.ltd/favicon.ico" width="16" /> [Minecraft for Android 版本库](https://bbk.endyun.ltd/download)（Android 版，**推荐**）
+- <i class="fa-solid fa-paper-plane" style="color: #0d6efd;"></i> [我的世界国际版全版本下载](https://mcapks.com)（Android 版）
+- <img src="https://mc.minebbs.com/favicon.ico" width="16" /> [我的世界国际版下载](https://mc.minebbs.com/?platform=3&environment=1)（Windows, Android, iOS 均有）
+- <img src="https://www.xbox.com/favicon.ico" width="16" /> [Xbox 官网下载](https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj)
 
 ## 启动游戏
 ![1](images/1.png)
@@ -27,10 +27,10 @@
 
 ## 视频教程
 
-## <i class="fa-solid fa-desktop"></i> 桌面端
+### <i class="fa-solid fa-desktop"></i> 桌面端
 - Windows 平台
   <BilibiliVideo bvid="BV1pEFueQEH9" />
 
-## <i class="fa-solid fa-mobile"></i> 移动端
+### <i class="fa-solid fa-mobile"></i> 移动端
 - Android 平台
   <BilibiliVideo bvid="BV1Wx38zTEYx" />
