@@ -21,7 +21,7 @@ export default defineConfig({
         items: [
           { text: '桌面端', link: '/start/JE/desktop' },
           { text: '移动端', link: '/start/JE/mobile' },
-          { text: '联机教程', link: '/start/联机' },
+          { text: '联机教程', link: '/start/JE/联机' },
         ]
       },
      { 
