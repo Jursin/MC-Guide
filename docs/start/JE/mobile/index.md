@@ -106,7 +106,7 @@
 :::
 
 ## 联机
-- 见后文[通过 Sakura Frp | 樱花内网穿透联机](http://localhost:5173/start/JE/%E8%81%94%E6%9C%BA/#%E9%80%9A%E8%BF%87-sakura-frp-%E6%A8%B1%E8%8A%B1%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F-%E4%B8%BB%E6%B5%81%E5%B9%B3%E5%8F%B0%E5%9D%87%E6%94%AF%E6%8C%81)
+- 见后文[通过 Sakura Frp | 樱花内网穿透联机](/start/JE/%E8%81%94%E6%9C%BA/#%E9%80%9A%E8%BF%87-sakura-frp-%E6%A8%B1%E8%8A%B1%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F-%E4%B8%BB%E6%B5%81%E5%B9%B3%E5%8F%B0%E5%9D%87%E6%94%AF%E6%8C%81)
 
 ## 整合包安装教程+问题详解
 <BilibiliVideo bvid="BV1kfupzCECu" />
