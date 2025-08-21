@@ -116,7 +116,7 @@ export default defineConfig({
     socialLinks: [
       { 
         icon: 'qq',
-        link: 'https://qm.qq.com/q/GDUbBENduO',
+        link: 'https://im.qq.com/',
         ariaLabel: 'QQ群'
       },
       { 

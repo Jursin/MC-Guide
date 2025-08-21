@@ -16,7 +16,7 @@ hero:
       link: /about
     - theme: alt
       text: QQ 交流群
-      link: https://qm.qq.com/q/GDUbBENduO
+      link: https://im.qq.com/
 
 features:
   - icon: ⚡
