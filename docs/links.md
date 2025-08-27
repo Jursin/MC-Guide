@@ -13,3 +13,5 @@
 CurseForge" description="A world of endless gaming possibilities for modders and gamers alike." logo="/svg/CurseForge.svg"/>
 
 <Linkcard url="https://modrinth.com/" title="Modrinth" description="The place for Minecraft" logo="https://toolb.cn/favicon/modrinth.com"/>
+
+<Linkcard url="https://mcplugin.netlify.app/" title="MC服务器插件导航" description="https://mcplugin.netlify.app/" logo="https://api.mmp.cc/api/qqgroup?text=684957856"/>
