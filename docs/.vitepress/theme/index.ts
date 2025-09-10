@@ -16,6 +16,8 @@ import ArticleMetadata from "./components/ArticleMetadata.vue"
 import { inBrowser } from 'vitepress'
 import busuanzi from 'busuanzi.pure.js'
 import HomeUnderline from "./components/HomeUnderline.vue"
+import { Waline } from '@theojs/lumen'
+import { Waline_Data } from './untils/Waline'
 
 export default {
   extends: DefaultTheme,
@@ -23,6 +25,7 @@ export default {
     return h(DefaultTheme.Layout, null, {
       // 指定组件使用doc-footer-before插槽
       'doc-footer-before': () => h(backtotop),
+      'doc-after': () => h(Waline, { Waline_Data })
     })
   },
   enhanceApp({ app, router, siteData }) {

@@ -231,6 +231,9 @@ export default defineConfig({
   },
 
   vite: {
+    optimizeDeps: {
+      include: ['recaptcha-v3']
+    },
     plugins: [
       groupIconVitePlugin({ 
         customIcon: {
