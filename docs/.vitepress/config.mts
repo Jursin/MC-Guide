@@ -14,26 +14,26 @@ export default defineConfig({
     
     // 导航栏配置
     nav: [
-      { text: '首页', link: '/' },
-      { text: '概览', link: '/overview' },
+      { text: '<i class="fa-solid fa-home"></i> 首页', link: '/' },
+      { text: '<i class="fa-solid fa-book-open"></i> 概览', link: '/overview' },
       { 
         text: 'Java 版',
         items: [
-          { text: '桌面端', link: '/start/JE/desktop' },
-          { text: '移动端', link: '/start/JE/mobile' },
-          { text: '联机教程', link: '/start/JE/联机' },
+          { text: '<i class="fa-solid fa-desktop"></i> 桌面端', link: '/start/JE/desktop' },
+          { text: '<i class="fa-solid fa-mobile"></i> 移动端', link: '/start/JE/mobile' },
+          { text: '<i class="fa-solid fa-globe"></i> 联机教程', link: '/start/JE/联机' },
         ]
       },
      { 
         text: '基岩版',
         items: [
           { text: '桌面端＆移动端', link: '/start/BE' },
-          { text: '联机教程', link: '/start/BE/联机' },
+          { text: '<i class="fa-solid fa-globe"></i> 联机教程', link: '/start/BE/联机' },
         ]
       },
-      { text: '服务器搭建', link: '/start/server' },
-      { text: '链接聚合', link: '/links' },
-      { text: '关于', link: '/about' }
+      { text: '<i class="fa-solid fa-server"></i> 服务器搭建', link: '/start/server' },
+      { text: '<i class="fa-solid fa-link"></i> 链接聚合', link: '/links' },
+      { text: '<i class="fa-solid fa-circle-info"></i> 关于', link: '/about' }
     ],
 
     // 侧边栏配置
