@@ -112,6 +112,17 @@
 /* friends */
 .vp-friends {
   max-width: 1400px !important;
+  padding: 0 !important
+}
+
+@media screen and (max-width: 768px) {
+  .vp-friends {
+    padding-top: 85px !important;
+  }
+}
+
+.vp-friends-group {
+  padding-top: 0 !important;
 }
 
 .vp-friend {
