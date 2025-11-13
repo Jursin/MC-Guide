@@ -1,11 +1,10 @@
 ---
 home: true
 config:
-  - type: doc-hero
+  - type: hero
     hero:
       name: Minecraft 教程
       text: 快速上手 MC
-      image: /logo.png
       actions:
         - theme: brand
           text: 概览
