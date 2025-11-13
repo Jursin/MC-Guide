@@ -50,7 +50,11 @@
   */
 }
 
-/* home hero */
+/* home */
+.vp-home-hero.first {
+  padding-top: 64px !important;
+}
+
 .hero-name {
   font-size: 4rem !important;
 }
@@ -59,7 +63,14 @@
   font-size: 2.75rem !important;
 }
 
-/* home features */
+.action {
+  margin-top: 10px !important;
+}
+
+.vp-home-box.vp-home-features {
+  padding-top: 0px !important;
+}
+
 .item {
   transition: transform 0.3s;
 }
@@ -82,6 +93,13 @@
   padding: 48px 150px !important;
 }
 
+@media screen and (max-width: 768px) {
+  .vp-page {
+    padding: 24px 16px !important;
+    min-width: 300px;
+  }
+}
+
 /* faq */
 .posts-container.no-profile {
   max-width: 1400px !important;
@@ -102,6 +120,12 @@
 
 .friends-list {
   grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+}
+
+@media screen and (max-width: 768px) {
+  .friends-list {
+    grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+  }
 }
 
 .avatar {
