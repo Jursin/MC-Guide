@@ -30,7 +30,7 @@ export default defineThemeConfig({
   /* 站点页脚 */
   footer: {
     message: '使用 <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a> 构建 | 采用 MIT 协议',
-    copyright: '<img src="/icon/mps.png" width="14" height="14" style="margin-right: 5px; display: inline-block; vertical-align: middle;"><a href="http://beian.miit.gov.cn/" target="_blank" >鄂ICP备2025157296号-1</a> | 版权所有 © 2025 Jursin',
+    copyright: '<img src="/icon/miit.ico" width="14" height="14" style="margin-right: 5px; display: inline-block; vertical-align: middle;"><a href="http://beian.miit.gov.cn/" target="_blank" >鄂ICP备2025157296号-1</a> | 版权所有 © 2025 Jursin',
   },
 
   navbar,
