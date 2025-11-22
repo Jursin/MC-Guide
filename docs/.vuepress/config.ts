@@ -30,6 +30,7 @@ export default defineUserConfig({
     // lastUpdated: true,
     contributors: { mode: 'block', },
     changelog: true,
+    llmstxt: true,
 
     /**
      * 编译缓存，加快编译速度
