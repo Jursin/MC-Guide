@@ -21,7 +21,17 @@ export default defineThemeConfig({
    * 文章版权信息
    * @see https://theme-plume.vuejs.press/guide/features/copyright/
    */
-  // copyright: true,
+  copyright: { 
+    license: {
+      name: 'MIT',
+      url: 'https://github.com/Jursin/MC-Guide/blob/main/LICENSE'
+    },
+    author: {
+      name: 'Jursin',
+      url: 'https://github.com/Jursin'
+    },
+    creation: 'original'
+  },
 
   // prevPage: true,   // 是否启用上一页链接
   // nextPage: true,   // 是否启用下一页链接
@@ -48,10 +58,10 @@ export default defineThemeConfig({
   // },
 
   /* 过渡动画 @see https://theme-plume.vuejs.press/config/basic/#transition */
-  // transition: {
+  transition: {
   //   page: true,        // 启用 页面间跳转过渡动画
   //   postList: true,    // 启用 博客文章列表过渡动画
-  //   appearance: 'fade',  // 启用 深色模式切换过渡动画, 或配置过渡动画类型
-  // },
+    appearance: 'circle-clip',  // 启用 深色模式切换过渡动画, 或配置过渡动画类型
+  },
 
 })
