@@ -14,6 +14,7 @@
     "vp-update": "pnpm dlx vp-update"
   },
   "devDependencies": {
+    "@iconify/json": "^2.2.417",
     "@vuepress/bundler-vite": "2.0.0-rc.26",
     "@waline/client": "^3.8.0",
     "http-server": "^14.1.1",
@@ -21,7 +22,7 @@
     "typescript": "^5.9.3",
     "vue": "^3.5.25",
     "vuepress": "2.0.0-rc.26",
-    "vuepress-theme-plume": "1.0.0-rc.180"
+    "vuepress-theme-plume": "1.0.0-rc.182"
   },
   "pnpm": {
     "onlyBuiltDependencies": [

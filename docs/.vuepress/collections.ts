@@ -5,6 +5,9 @@ const guide = defineCollection({
   dir: 'guide',
   linkPrefix: '/guide',
   title: '教程',
+  meta: {
+    createTime: "long"
+  },
   sidebar: [
     { text: '概览', icon: 'material-symbols:book', link: '1.overview.md' },
     {
