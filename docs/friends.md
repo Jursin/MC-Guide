@@ -27,8 +27,4 @@ groups:
         link: https://modrinth.com/
         avatar: https://toolb.cn/favicon/modrinth.com
         desc: The place for Minecraft
-      - name: MC服务器插件导航
-        link: https://mcplugin.netlify.app/
-        avatar: https://api.mmp.cc/api/qqgroup?text=684957856
-        desc: https://mcplugin.netlify.app/
 ---

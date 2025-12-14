@@ -9,7 +9,6 @@ const guide = defineCollection({
     createTime: "long"
   },
   sidebar: [
-    { text: '概览', icon: 'material-symbols:book', link: '1.overview.md' },
     {
       text: 'Java 版',
       icon: 'fa-brands:java',

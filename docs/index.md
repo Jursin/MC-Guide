@@ -11,9 +11,9 @@ config:
           icon: material-symbols:book
           link: /guide/1.overview.html
         - theme: alt
-          text: 关于
-          icon: material-symbols:info
-          link: /about
+          text: 教程
+          icon: material-symbols:menu-book
+          link: /guide/2.JE/desktop
   - type: features
     features:
       - icon: ⚡
