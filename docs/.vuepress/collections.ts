@@ -23,7 +23,10 @@ const guide = defineCollection({
 const faq = defineCollection({
   type: 'post',
   dir: 'faq',
-  title: 'FAQ',
+  title: '常见问题',
+  meta: {
+    createTime: "long"
+  },
   link: '/faq/',
   linkPrefix: '/faq/', // 相关文章的链接前缀
   //   postList: true, // 是否启用文章列表页
