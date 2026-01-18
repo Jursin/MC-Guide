@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "description": "",
-  "packageManager": "pnpm@10.27.0",
+  "packageManager": "pnpm@10.28.0",
   "author": "Jursin <jursin@126.com>",
   "license": "MIT",
   "scripts": {
@@ -14,15 +14,15 @@
     "vp-update": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@iconify/json": "^2.2.417",
+    "@iconify/json": "^2.2.429",
     "@vuepress/bundler-vite": "2.0.0-rc.26",
     "@waline/client": "^3.8.0",
     "http-server": "^14.1.1",
     "swiper": "^12.0.3",
     "typescript": "^5.9.3",
-    "vue": "^3.5.25",
+    "vue": "^3.5.26",
     "vuepress": "2.0.0-rc.26",
-    "vuepress-theme-plume": "1.0.0-rc.184"
+    "vuepress-theme-plume": "1.0.0-rc.185"
   },
   "pnpm": {
     "onlyBuiltDependencies": [

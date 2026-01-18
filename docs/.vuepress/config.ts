@@ -140,7 +140,7 @@ export default defineUserConfig({
      */
     comment: {
       provider: 'Waline', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
-      serverURL: 'https://waline-starter.netlify.app/.netlify/functions/comment',
+      serverURL: 'https://waline.jursin.top/',
       emoji: [
           "https://jsd.akams.cn/gh/walinejs/emojis@1.4.0/bilibili",
           "https://jsd.akams.cn/gh/walinejs/emojis@1.4.0/bmoji",
