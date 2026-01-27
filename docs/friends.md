@@ -1,7 +1,7 @@
 ---
 friends: true
 title: 友情链接
-contentPosition: after
+cols: 3
 groups:
   - title: 导航站
     list:
