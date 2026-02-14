@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
   title: 'MC-Guide',
-  description: '',
+  description: 'Minecraft 教程，帮你快速上手 MC！',
 
   head: [
     // 配置站点图标
