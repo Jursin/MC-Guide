@@ -44,7 +44,7 @@ createTime: 2025/11/11 14:30:27
 - Java
   - Java 24 <a href="https://www.oracle.com/cn/java/technologies/downloads/#jdk24-windows" target="_blank">::fa-solid:download::</a>
   - Java 21 <a href="https://www.oracle.com/cn/java/technologies/downloads/#jdk21-windows" target="_blank">::fa-solid:download::</a>
-  - Java 17 <a href="https://www.oracle.com/cn/java/technologies/downloads/#java17-windows" target="_blank">::fa-solid:download::</a>
+  - Java 17 <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html" target="_blank">::fa-solid:download::</a>
   - Java 8 <a href="https://www.java.com/zh-CN/download/" target="_blank">::fa-solid:download::</a>
 
 :::table
