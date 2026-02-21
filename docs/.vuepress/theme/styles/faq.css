@@ -1,0 +1,8 @@
+/* 常见问题页面 */
+.posts-container.no-profile {
+  max-width: 1400px !important;
+}
+
+.vp-posts-nav.local .nav-link {
+  max-width: 175px !important;
+}

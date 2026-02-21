@@ -118,7 +118,7 @@ createTime: 2025/11/11 14:30:27
 - 游戏优化建议选 <img src="https://fabricmc.net/assets/logo.png" width="16" /> [Fabric](https://fabricmc.net/), 拓展玩法建议选 <img src="/icon/CurseForge.svg" width="16" /> [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
 :::
 
-### 游戏资源下载（模组/整合包/材质包/光影包）
+### 游戏资源下载
 
 - 通过启动器下载
 

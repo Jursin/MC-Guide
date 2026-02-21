@@ -21,7 +21,8 @@ createTime: 2025/11/11 14:30:27
 - 聊天框将显示端口开放信息
   ![端口开启](/images/JE/online/端口开启.png)
 
-### 通过 <img src="https://netplus.xingl.net/favicon.ico" width="20" /> [NetPlus](https://netplus.xingl.net/)（仅支持 Windows 端）
+### 通过 <img src="https://netplus.xingl.net/favicon.ico" width="20" /> [NetPlus](https://netplus.xingl.net/)
+> 仅支持 Windows 端
 - 注册账号后进入主界面
   ![image.png](/images/JE/online/image.png)
   > 点击`每日签到`可随机获得 0.1-0.3 元余额
@@ -37,7 +38,8 @@ createTime: 2025/11/11 14:30:27
 - 返回映射管理后，点击`启动`，点击`复制连接地址`，分享给好友
 - 好友通过复制的连接地址在`多人游戏`中加入服务器
 
-### 通过 <img src="https://www.natfrp.com/favicon.ico" width="20" /> [Sakura Frp | 樱花内网穿透](https://www.natfrp.com/) （主流平台均支持）
+### 通过 <img src="https://www.natfrp.com/favicon.ico" width="20" /> [Sakura Frp | 樱花内网穿透](https://www.natfrp.com/)
+> 主流平台均支持
 - 注册账号后进入首页
 - 点击`用户-实名认证`，根据提示支付认证费用并完成实名认证 ***（需年满18周岁）***
   ![实名认证](/images/JE/online/实名认证.png)
