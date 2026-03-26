@@ -25,6 +25,19 @@ export default defineUserConfig({
     // docsDir: 'docs',
     docsBranch: 'main',
 
+    /* 文章版权信息 */
+    copyright: { 
+      license: {
+        name: 'CC-BY-SA-4.0',
+        url: 'https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-hans'
+      },
+      author: {
+        name: 'Jursin',
+        url: 'https://github.com/Jursin'
+      },
+      creation: 'original'
+    },
+
     /* 页内信息 */
     // editLink: true,
     // lastUpdated: true,
@@ -159,20 +172,19 @@ export default defineUserConfig({
         'https://npm.elemecdn.com/@waline/emojis@1.1.0/bilibili/bb_dizzy_face.png',
         'https://npm.elemecdn.com/@waline/emojis@1.1.0/bilibili/bb_slap.png',
       ],
-      // locales: {
-      //   '/': {
-      //     placeholder: "请留言(审核通过后显示)",
-      //     reaction0: "非常有用",
-      //     reaction1: "有帮助",
-      //     reaction2: "一般",
-      //     reaction3: "无帮助",
-      //     reaction4: "看不懂",
-      //     reaction5: "有错误",
-      //     reactionTitle: "本页内容对您有帮助吗？",
-      //     sofa: "还没有人留言哦！快来抢沙发吧~",
-      //     comment: "留言",
-      //   }
-      // },
+      locales: {
+        '/': {
+          reaction0: "非常有用",
+          reaction1: "有帮助",
+          reaction2: "一般",
+          reaction3: "无帮助",
+          reaction4: "看不懂",
+          reaction5: "有错误",
+          reactionTitle: "本页内容对您有帮助吗？",
+          sofa: "还没有人留言哦！快来抢沙发吧~",
+          comment: "留言",
+        }
+      },
     },
 
     /**
